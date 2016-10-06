@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item android:id="@+id/unit_info"
+	      android:title="Guard Info"
+	      android:icon="@drawable/ic_info_white_48dp"
+	      app:showAsAction="always">
+	</item>
+	<item android:id="@+id/unit_settings"
+	      android:title="Guard Settings"
+	      android:icon="@drawable/ic_settings_white_48dp"
+	      app:showAsAction="always">
+	</item>
+	<item android:id="@+id/unit_status_update"
+	      android:title="Refresh Status"
+	      android:icon="@drawable/ic_refresh_white_48dp"
+	      app:showAsAction="always">
+	</item>
+	<item android:id="@+id/unit_delete"
+	      android:title="Delete Guards"
+	      android:icon="@drawable/ic_delete_white_48dp"
+	      app:showAsAction="ifRoom">
+	</item>
+</menu>

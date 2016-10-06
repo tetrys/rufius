@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Rufius</string>
+	<string name="set_name">Settings</string>
+
+	<string name="dlg_yes">Yes</string>
+	<string name="dlg_no">No</string>
+	<string name="dlg_cancel">Cancel</string>
+
+	<string name="mssg_unknown_host">Unknown Host!</string>
+	<string name="mssg_pick_account">Please pick a Google Account or change your Settings.</string>
+	<string name="mssg_not_online">Network Error! Please check your Connection!</string>
+	<string name="mssg_ask_password">Password: </string>
+	<string name="mssg_delete">Delete!</string>
+
+	<string name="prfn_unit_name">Guard Name</string>
+	<string name="smmr_unit_name">Name for Rufius Server</string>
+	<string name="prfn_unit_description">Guard Description</string>
+	<string name="smmr_unit_description">Description of Guarding Spot</string>
+	<string name="prfn_username">Username</string>
+	<string name="smmr_username">Username for SSh Server</string>
+	<string name="prfn_key_auth">Key Authentication</string>
+	<string name="smmr_key_auth">Use Key for SSh Authentication</string>
+	<string name="prfn_key_path">Keyfile Path</string>
+	<string name="smmr_key_path">Private Keyfile Path for SSh Access</string>
+
+	<string name="prfn_other_email">No Gmail</string>
+	<string name="smmr_other_email">No Google Authentication, use another Email</string>
+	<string name="prfn_user_email">User Email</string>
+	<string name="smmr_user_email">User Email to receive Messages from Server</string>
+	<string name="prfn_user_emailpass">Password</string>
+	<string name="smmr_user_emailpass">User Email Password</string>
+
+	<string name="prfn_network_ssid">SSID</string>
+	<string name="smmr_network_ssid">SSID of Rufius Network</string>
+	<string name="prfn_server_intra_ip">Local IP</string>
+	<string name="smmr_server_intra_ip">Rufius Server Local Static IP</string>
+	<string name="prfn_port">SSH Port</string>
+	<string name="smmr_port">SSH Port of Rufius Server</string>
+	<string name="prfn_server_email">Rufius Email</string>
+	<string name="smmr_server_email">Rufius Server Email Address</string>
+	<string name="prfn_statik_ip">Static IP</string>
+	<string name="smmr_statik_ip">Check if Rufius Server has a Global Static IP</string>
+	<string name="prfn_server_inter_ip">Static IP</string>
+	<string name="smmr_server_inter_ip">Rufius Server Global Static IP</string>
+
+
+	<string name="prfn_auto_switch">On/Off Automation</string>
+	<string name="smmr_auto_switch">Automatic Rufius On/Off</string>
+	<string name="prfn_spot_switch">Guard Check Automation</string>
+	<string name="smmr_spot_switch">Refresh Guard Statuses nn Application Startup</string>
+	<string name="prfn_grace_time">Grace Time</string>
+	<string name="smmr_grace_time">Waiting Time when switching to Mobile</string>
+
+
+	<string name="settings_name">Setting</string>
+
+	<string name="menu_settings">Settings</string>
+	<string name="menu_info">Info</string>
+	<string name="menu_statuscheck">Check Status</string>
+	<string name="menu_sign_in">Sign in</string>
+	<string name="menu_sign_out">Sign out</string>
+	<string name="menu_unit_sign_in">Sign in</string>
+	<string name="menu_unit_sign_out">Sign out</string>
+	<string name="menu_presence">Declare Presence</string>
+	<string name="menu_last_snap">Last Snapshot</string>
+	<string name="menu_help">Help</string>>
+	<string name="menu_about">About</string>>
+
+</resources>

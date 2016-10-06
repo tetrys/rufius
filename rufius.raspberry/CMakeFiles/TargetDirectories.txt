@@ -1,0 +1,2 @@
+/home/lykanthrop/projects/rufius/CMakeFiles/rufius.dir
+/home/lykanthrop/projects/rufius/motion/CMakeFiles/motion.dir

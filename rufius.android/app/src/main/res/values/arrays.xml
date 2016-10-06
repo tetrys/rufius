@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="remember_finger">
+		<item>Remember Choice</item>
+	</string-array>
+
+	<string-array name="time_entries">
+		<item>None</item>
+		<item>15 sec</item>
+		<item>30 sec</item>
+		<item>1 min</item>
+		<item>2 min</item>
+		<item>3 min</item>
+		<item>4 min</item>
+		<item>5 min</item>
+		<item>10 min</item>
+		<item>15 min</item>
+	</string-array>
+
+	<string-array name="time_entry_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>4</item>
+		<item>8</item>
+		<item>12</item>
+		<item>16</item>
+		<item>20</item>
+		<item>40</item>
+		<item>60</item>
+	</string-array>
+
+	<string-array name="left_drawer_actions">
+		<item>@string/menu_sign_in</item>
+		<item>@string/menu_sign_out</item>
+		<item>@string/menu_settings</item>
+		<item>@string/menu_presence</item>
+		<item>@string/menu_help</item>
+		<item>@string/menu_about</item>
+	</string-array>
+</resources>

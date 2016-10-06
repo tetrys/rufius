@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="RufiusTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="windowActionModeOverlay">true</item>
+		<item name="android:windowBackground">@color/indigo_100</item>
+		<item name="android:windowTranslucentStatus">false</item>
+		<item name="android:fitsSystemWindows">false</item>
+		<item name="colorPrimary">@color/indigo_800</item>
+		<item name="colorPrimaryDark">@color/indigo_900</item>
+		<item name="colorAccent">@color/indigo_50</item>
+		<item name="colorControlActivated">@color/indigo_300</item>
+		<item name="colorControlHighlight">@color/indigo_100</item>
+		<item name="colorSwitchThumbNormal">@color/indigo_50</item>
+		<item name="actionModeBackground">@color/indigo_800</item>
+		<item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+	</style>
+	<style name="RufiusToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="windowActionModeOverlay">true</item>
+		<item name="android:windowBackground">@color/indigo_100</item>
+		<item name="android:windowTranslucentStatus">false</item>
+		<item name="android:fitsSystemWindows">false</item>
+		<item name="colorPrimary">@color/indigo_800</item>
+		<item name="colorPrimaryDark">@color/indigo_900</item>
+		<item name="colorAccent">@color/indigo_50</item>
+		<item name="colorControlActivated">@color/indigo_300</item>
+		<item name="colorControlHighlight">@color/indigo_100</item>
+		<item name="colorSwitchThumbNormal">@color/indigo_50</item>
+		<item name="actionModeBackground">@color/indigo_800</item>
+		<item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+		<item name="android:textColorPrimary">@android:color/primary_text_dark</item>
+		<item name="android:textColorSecondary">@android:color/secondary_text_dark</item>
+	</style>
+</resources>

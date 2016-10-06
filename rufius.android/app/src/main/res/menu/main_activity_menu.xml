@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto" >
+	<item android:id="@+id/unit_new_from_con"
+	      android:title="New Guard Here"
+	      android:icon="@drawable/ic_add_router_white"
+	      app:showAsAction="ifRoom">
+	</item>
+	<!---
+	<item android:id="@+id/unit_new"
+	      android:title="New Unit"
+	      android:icon="@drawable/ic_add_home"
+	      app:showAsAction="ifRoom">
+	</item>
+	-->
+</menu>

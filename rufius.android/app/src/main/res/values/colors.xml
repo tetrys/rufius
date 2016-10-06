@@ -1,0 +1,16 @@
+<resources>
+	<color name="indigo_50">#ffe8eaf6</color>
+	<color name="indigo_100">#ffc5cae9</color>
+	<color name="indigo_200">#ff9fa8da</color>
+	<color name="indigo_300">#ff7986cb</color>
+	<color name="indigo_400">#ff5c6bc0</color>
+	<color name="indigo_500">#ff3f51b5</color>
+	<color name="indigo_600">#ff3949ab</color>
+	<color name="indigo_700">#ff303f9f</color>
+	<color name="indigo_800">#ff283593</color>
+	<color name="indigo_900">#ff1a237e</color>
+	<color name="indigo_a100">#ff8c9eff</color>
+	<color name="indigo_a200">#ff536dfe</color>
+	<color name="indigo_a400">#ff3d5afe</color>
+	<color name="indigo_a700">#ff304ffe</color>
+</resources>

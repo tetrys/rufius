@@ -1,0 +1,11 @@
+#define rufius_tmp @rufius_tmp@
+#define rufius_socket @rufius_socket@
+#define rufius_default @rufius_default@
+#define conf_default @conf_default@
+#define motion_conf_default @motion_conf_default@
+#define pass_default @pass_default@
+#define key_default @key_default@
+#define nameserver_default @nameserver_default@
+#define log_default @log_default@
+#define snapshots_default @snapshots_default@
+#define triggers_default @triggers_default@
